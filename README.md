@@ -1,0 +1,1 @@
+# Um repositorio apenas para efeito de teste, não ofocial.

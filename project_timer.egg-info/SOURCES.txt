@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+project_timer.egg-info/PKG-INFO
+project_timer.egg-info/SOURCES.txt
+project_timer.egg-info/dependency_links.txt
+project_timer.egg-info/requires.txt
+project_timer.egg-info/top_level.txt
+timer_module/__init__.py
+timer_module/main_time.py
